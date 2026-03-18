@@ -1,4 +1,4 @@
-# 📚 Scholarnet - WIP
+# 📚 Scholarnet - Discontinuedw
 
 ![Language](https://img.shields.io/badge/language-C-9E9E9E?logo=c)
 ![License](https://img.shields.io/badge/license-MIT-blue)
@@ -6,6 +6,8 @@
 ![Lines](https://img.shields.io/badge/lines-3017-purple)
 
 > My school management system written in C, including a server, client, database, and a simple terminal UI.
+
+Some part of this readme was written by an AI.
 
 This project is a school management system written entirely in C, designed to handle essential administrative tasks for a school. It’s built with a modular architecture, dividing responsibilities across several key components:
     
