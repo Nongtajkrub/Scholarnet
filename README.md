@@ -1,4 +1,4 @@
-# 📚 Scholarnet - Discontinuedw
+# 📚 Scholarnet - Discontinued
 
 ![Language](https://img.shields.io/badge/language-C-9E9E9E?logo=c)
 ![License](https://img.shields.io/badge/license-MIT-blue)
